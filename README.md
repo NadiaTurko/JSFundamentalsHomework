@@ -1,1 +1,1 @@
-# JSFundamentalsHomework1
+# JSFundamentalsHomework
